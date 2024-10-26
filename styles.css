@@ -1,0 +1,26 @@
+body {
+	background: blue;
+}
+h1 {
+	background: red;
+}
+
+.red-black {
+	background: black;
+	color: #ff0000;
+}
+
+.red-black:hover {
+	background: #ff0000;
+	color: black;
+}
+
+.black-red {
+	background: black;
+	color: #ff0000;
+}
+
+.black-red:hover {
+	background: #ff0000;
+	color: black;
+}
